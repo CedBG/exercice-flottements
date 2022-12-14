@@ -1,0 +1,20 @@
+.container {
+    width: 503px;
+    height: 220px;
+    background-color: red;
+    padding: 10px;
+}
+
+.v {
+   background-color: green;
+   width: 70px;
+   height: 100px;
+   border: 1px solid black;
+   float: left;
+   margin-right: 10px;
+   margin-bottom: 10px;
+}
+
+.clear {
+    clear: both;
+}

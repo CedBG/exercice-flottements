@@ -1,0 +1,19 @@
+.container {
+    width: 600px;
+    background-color: red;
+}
+
+.boite1 {
+    width: 400px;
+    height: 250px;
+    background-color: gray;
+    float: left;
+
+}
+
+.boite2 {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(13, 141, 245);
+    float: right;
+}

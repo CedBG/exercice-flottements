@@ -1,0 +1,27 @@
+.container {
+    width: 600px;
+    background-color: red;
+}
+
+.boite1 {
+    width: 248px;
+    height: 250px;
+    background-color: gray;
+    float: left;
+    margin: 25px;
+    padding: 10px;
+    border: solid 3px black;
+
+}
+
+.boite2 {
+    width: 201px;
+    height: 150px;
+    background-color: rgb(13, 141, 245);
+    float: left;
+    margin: 25px;
+    padding: 10px;
+    border:  solid 3px black;
+
+    
+}
