@@ -1,18 +1,17 @@
 .boite1 {
     width: 800px;
-    height: 200px;
+    height: 203px;
     background-color: red;
     border: 5px solid rgb(181, 181, 181);
+    padding: 10px;
+    border: 2px grey;
 }
 .poussin {
     float: right;
     border: 2px solid rgb(14, 0, 0);
-    margin: 10px;
 }
 
 .h3 {
-   padding: 5px;
-}
-.p {
-   padding: 5px;
+   margin-bottom: 40px;
+   margin-top: 0;
 }

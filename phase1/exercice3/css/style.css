@@ -1,5 +1,6 @@
 .boite3 {
     width: 800px;
+<<<<<<< HEAD
     height: 200px;
     background-color: red;
     border: 5px solid rgb(181, 181, 181);
@@ -11,3 +12,16 @@
     margin-top: 2px;
     margin-right: 5px;
 }
+=======
+    height: 300px;
+    background: red;
+    border: 2px gray;
+}
+.h3 {
+    
+}
+img {
+    border: black solid;
+    float: left;
+}
+>>>>>>> 7292b5f820da20dbf8d289b029bace3bc789c332
